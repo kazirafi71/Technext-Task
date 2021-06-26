@@ -1,0 +1,4 @@
+.active__navbar {
+  color: rgb(255, 255, 255) !important;
+  transition: all 0.2s linear !important;
+}
